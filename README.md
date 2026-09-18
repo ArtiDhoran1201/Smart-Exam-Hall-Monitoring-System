@@ -137,6 +137,9 @@ The system consists of the following major modules:
 - External Interrupts
 
 ---
+|VIRTUAL SIMULATION ARCHITECTURE IN PROTEUS|
+<img width="1479" height="1063" alt="image" src="https://github.com/user-attachments/assets/09b18164-e18f-4dcf-a362-634d7827614f" />
+
 
 ## 📁 Project Structure
 
