@@ -121,7 +121,7 @@ The RTC can also be used to record the examination end time.
 ---
 
 ## 🏗️ System Architecture
-![System Architecture](images/block-diagram.png)
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/e0f0633f-91b8-408b-913e-dfc3e70a588a" />
 
 The system consists of the following major modules:
 
