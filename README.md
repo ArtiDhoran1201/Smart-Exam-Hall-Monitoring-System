@@ -1,4 +1,11 @@
-# Smart Exam Hall Monitoring and Management System
+# 🎓 Smart Exam Hall Monitoring & Management System
+
+**An embedded system for automated, secure, and real-time examination hall management**
+
+![Platform](https://img.shields.io/badge/Platform-LPC2148%20ARM7-blue?style=for-the-badge&logo=arm)
+![Language](https://img.shields.io/badge/Language-Embedded%20C-brightgreen?style=for-the-badge&logo=c)
+![IDE](https://img.shields.io/badge/IDE-Keil%20µVision-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📌 Overview
 
