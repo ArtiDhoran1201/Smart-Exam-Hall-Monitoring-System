@@ -142,7 +142,22 @@ The system consists of the following major modules:
 - LEDs
 - Buzzer
 - External Interrupts
+- 
+## 📌 Pin Configuration
 
+| Peripheral | LPC2148 Pin / Connection | Purpose |
+|---|---|---|
+| LCD | GPIO | Displays time, date, temperature and exam information |
+| 4×4 Keypad | GPIO | Password entry and configuration |
+| 7-Segment | GPIO | Displays remaining exam time |
+| LM35 | ADC Input | Temperature sensing |
+| RTC | Internal RTC | Provides date and time |
+| Green LED | GPIO | Exam status indication |
+| Yellow LED | GPIO | Exam status indication |
+| Red LED | GPIO | Exam status indication |
+| Buzzer | GPIO | Indicates exam completion |
+| Switch-1 | EINT0 | Secure configuration |
+| Switch-2 | EINT1 | Pause / Resume |
 ---
 |VIRTUAL SIMULATION ARCHITECTURE IN PROTEUS|
 <img width="1479" height="1063" alt="image" src="https://github.com/user-attachments/assets/09b18164-e18f-4dcf-a362-634d7827614f" />
