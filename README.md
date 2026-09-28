@@ -120,7 +120,7 @@ Remaining Time        LED State
 ---
 <img width="800" height="500" alt="Screenshot 2026-07-19 213544" src="https://github.com/user-attachments/assets/05d6f01a-d978-49da-8c47-2fc3edf8d79b" />
 
-![Uploading image.png…]()
+<img src="images/project_setup.png" alt="Embedded Systems project hardware setup" width="700">
 
 ---
 
